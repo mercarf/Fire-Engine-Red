@@ -17,7 +17,9 @@ La landing, siguiendo un estilo minimal constará de un cuerpo que ocupe el alto
 Acompañando a esta página tendremos un pie fijo a la ventana del navegador mostrando la que será la futura marca de dicho color.
 Estas son las pantallas:
 Versión móvil
+
 ![Mobile](./info-readme/mobile.PNG)
 
 Version tablet/desktop:
+
 ![Desktop](./info-readme/desktop.PNG)
