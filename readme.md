@@ -18,8 +18,8 @@ Acompañando a esta página tendremos un pie fijo a la ventana del navegador mos
 Estas son las pantallas:
 Versión móvil
 
-![Mobile](./info-readme/mobile.PNG)
+![Mobile](./info-readme/Mobile.PNG)
 
 Version tablet/desktop:
 
-![Desktop](./info-readme/desktop.PNG)
+![Desktop](./info-readme/Desktop.PNG)
